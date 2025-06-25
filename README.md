@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ZoeCox
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Javascript
+- 👀 I’m interested in ... Front end Web Development
+- 🌱 I’m currently learning ... Javascript and Golang
 - 💞️ I’m looking to collaborate on ... Not applicable at present
-- 📫 How to reach me ... 
+- 📫 How to reach me ... hello@zoecox.co.uk
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ...
 
 <!---
 ZoeCox/ZoeCox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
